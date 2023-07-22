@@ -21,7 +21,15 @@
     "paths": {
       "@/*": ["src/*"],
       "@app/*": ["src/*"],
-      "@config/*": ["src/config/*"]
+      "@config/*": ["src/config/*"],
+      "@Author/*": ["src/modules/Author/*"],
+      "@Book/*": ["src/modules/Book/*"],
+      "@Borrow/*": ["src/modules/Borrow/*"],
+      "@Category/*": ["src/modules/Category/*"],
+      "@LibraryBranch/*": ["src/modules/LibraryBranch/*"],
+      "@User/*": ["src/modules/User/*"],
+      "@Reservation/*": ["src/modules/Reservation/*"],
+      "@Transaction/*": ["src/modules/Transaction/*"],
     }
   }
 }
